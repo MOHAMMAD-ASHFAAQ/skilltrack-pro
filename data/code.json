@@ -1,0 +1,18 @@
+{
+    "Python": {
+        "solved": 39,
+        "target": 115
+    },
+    "DSA": {
+        "solved": 400,
+        "target": 3250
+    },
+    "HTML": {
+        "solved": 76,
+        "target": 100
+    },
+    "JavaScript": {
+        "solved": 14,
+        "target": 80
+    }
+}

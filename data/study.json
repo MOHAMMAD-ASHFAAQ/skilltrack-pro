@@ -1,0 +1,11 @@
+{
+    "Algorithms": 2820,
+    "Microprocessors": 1150,
+    "Cyber Security": 400,
+    "Python": {
+        "minutes": 10
+    },
+    "C++": {
+        "minutes": 10
+    }
+}

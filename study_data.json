@@ -1,0 +1,116 @@
+{
+    "ashu": {
+        "profile": {
+            "name": "Ashu ",
+            "year": "1st",
+            "branch": "Cse",
+            "created": true
+        },
+        "study": [
+            {
+                "id": 1,
+                "topic": "Mathematics I",
+                "problems": 9,
+                "stars": 0,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 2,
+                "topic": "Mathematics I",
+                "problems": 9,
+                "stars": 0,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 3,
+                "topic": "Mathematics I",
+                "problems": 9,
+                "stars": 0,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 4,
+                "topic": "Mathematics I",
+                "problems": 9,
+                "stars": 0,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 5,
+                "topic": "Mathematics I",
+                "problems": 9,
+                "stars": 0,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 6,
+                "topic": "Engineering Chemistry",
+                "problems": 16,
+                "stars": 1,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 7,
+                "topic": "Engineering Chemistry",
+                "problems": 16,
+                "stars": 1,
+                "languages": [
+                    "C++"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 8,
+                "topic": "Mathematics II",
+                "problems": 10,
+                "stars": 1,
+                "languages": [
+                    "JavaScript"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 9,
+                "topic": "Engineering Chemistry",
+                "problems": 10,
+                "stars": 1,
+                "languages": [
+                    "JavaScript"
+                ],
+                "date": "2026-06-02"
+            },
+            {
+                "id": 10,
+                "topic": "Environmental Science",
+                "problems": 10,
+                "stars": 1,
+                "languages": [
+                    "JavaScript"
+                ],
+                "date": "2026-06-02"
+            }
+        ],
+        "coding": [],
+        "counter": 10,
+        "streak": 0,
+        "last_active": "2026-06-02"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "password": "000",
+    "profile": {
+        "name": "Ashu",
+        "email": "mdbaji9676@gmail.com",
+        "mobile": "9676128940",
+        "dob": "2026-06-01",
+        "age": 18,
+        "gender": "Male",
+        "college": "Guntur",
+        "year": "First Year",
+        "branch": "CSE",
+        "city": "Guntur",
+        "state": "Andhra Pradesh",
+        "career_goal": "R"
+    },
+    "coding": {},
+    "study": {}
+}

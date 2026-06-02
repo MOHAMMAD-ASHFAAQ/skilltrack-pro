@@ -1,0 +1,19 @@
+{
+    "password": "1q",
+    "profile": {
+        "name": "Aman",
+        "email": "Amnan@gmali.com",
+        "mobile": "1284385438",
+        "dob": "2026-06-01",
+        "age": 16,
+        "gender": "Male",
+        "college": "Rbr",
+        "year": "First Year",
+        "branch": "CSE",
+        "city": "Chandole",
+        "state": "Andhra Pradesh",
+        "career_goal": "R"
+    },
+    "coding": {},
+    "study": {}
+}
